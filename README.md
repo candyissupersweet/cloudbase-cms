@@ -47,7 +47,7 @@ CloudBase CMS 是云开发推出的，基于 Node.js 的 Headless 内容管理�
 
 使用一键部署，将 CMS 部署到云托管。
 
-[![](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2Fcandyissupersweet%2cloudbase-cms%2F&branch=master)
+[![](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2Fcandyissupersweet%2Fcloudbase-cms%2F&branch=master)
 
 **注：一键部署使用云托管部署，将会运行费用，计费标准[参考文档](https://cloud.tencent.com/document/product/1243/48037)。**
 
